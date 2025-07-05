@@ -37,8 +37,8 @@ Includes:
 
 ## Contact
 
-Name  : DARUN S  
-Email : 22cb009@drngpit.ac.in
+Name: DARUN S  
+Email: 22cb009@drngpit.ac.in
 
 ---
 
